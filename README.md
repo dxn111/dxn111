@@ -12,6 +12,7 @@ I'm always working on something new.
   <a href="https://x.com/dxn1_0day"><img src="https://img.shields.io/badge/X-@dxn1__0day-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
   <a href="https://youtube.com/@dxn1-ai"><img src="https://img.shields.io/badge/YouTube-DXN1--AI-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://github.com/dxn111"><img src="https://img.shields.io/badge/GitHub-dxn111-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/Discord-@dxn1--ai-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 ---
@@ -29,6 +30,7 @@ I'm always working on something new.
 - **X:** [@dxn1_0day](https://x.com/dxn1_0day)
 - **YouTube:** [DXN1-AI](https://youtube.com/@dxn1-ai)
 - **GitHub:** [@dxn111](https://github.com/dxn111)
+- **Discord:** @dxn1-ai
 
 ---
 
